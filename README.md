@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Basil</h1>
-<h3 align="center">I am a Software Engineer from Jordan, I work as a Support Engineer at Jotform and as a Part time Ruby on Rails Developer at StartStory. I enjoy solving new challengin problems and working with new Technologies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basilawwad&label=Profile%20views&color=0e75b6&style=flat" alt="basilawwad" /> </p>
+<p align="center">I am a Software Engineer from Jordan, I work as a Support Engineer at Jotform and as a Part time Ruby on Rails Developer at StartStory. I enjoy solving new challengin problems and working with new Technologies.</p>
 
 - 🔭 I’m currently working on **Updating my Portofolio**
 
-- 📫 You can reach me on **bawwad032@gmail.com**
+- 📫 You can reach me at **bawwad032@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
