@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basil</h1>
-<p align="center">I am a Software Engineer from Jordan, I work as a Support Engineer at Jotform and as a part time Ruby on Rails Developer at StartStory. I enjoy solving challenging problems and working with new Technologies.</p>
+<p align="center">I am a Software Engineer from Jordan, I work as a Support Engineer at Jotform. I enjoy solving challenging problems and working with new Technologies.</p>
 
 - 🔭 I’m currently working on **Updating my Portofolio**
 
