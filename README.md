@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Basil</h1>
 <p align="center">I am a Software Engineer from Jordan, I work as a Support Engineer at Jotform. I enjoy solving challenging problems and working with new Technologies.</p>
 
-- 🔭 I’m currently working on **Updating my Portofolio**
-
 - 📫 You can reach me at **bawwad032@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/basil-a-76207aba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil-a-76207aba" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/basel95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="basel95" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
